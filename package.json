@@ -1,0 +1,10 @@
+{
+  "description": "Token launch radar for make.fun token-radar-01: ranks pre-token protocols by implied value.",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "name": "token-radar",
+  "private": true,
+  "type": "module",
+  "version": "2.0.0"
+}
