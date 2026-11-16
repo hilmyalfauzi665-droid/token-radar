@@ -1,3 +1,4 @@
+// token-radar-01: rewritten for the transcript bundle
 // Token Radar, model radar-2 (Node 22, standard library only).
 //
 // The program reads the sealed snapshot from /input/snapshot.json (or --input <file|dir>), scores every
